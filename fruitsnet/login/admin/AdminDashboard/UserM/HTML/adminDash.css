@@ -1,0 +1,24 @@
+
+* { margin: 0px; padding: 0px; }
+body {
+	font-size: 120%;
+	background: url("images/photo_bg.jpg") no-repeat center center fixed;
+	background-size: cover;
+	align-items: center;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	margin: 0;
+	color: #666;
+}
+.LogoImg{
+   width:10px;
+   height: 10px;
+  }
+  
+.li active{
+   background-color: #F28123;
+}
+
+
+   
+  
